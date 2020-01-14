@@ -1,0 +1,22 @@
+{
+  "name": "ws-sri",
+  "version": "1.0.0",
+  "description": "node web service sri test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almacenero/node-ws-sri.git"
+  },
+  "author": "Yasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almacenero/node-ws-sri/issues"
+  },
+  "homepage": "https://github.com/almacenero/node-ws-sri#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
